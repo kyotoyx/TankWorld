@@ -24,3 +24,7 @@ hs_err_pid*
 
 # idea files #
 .idea/
+
+
+# compiled files #
+output/
